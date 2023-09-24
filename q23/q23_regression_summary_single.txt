@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                    组趋势   R-squared:                         nan
+Model:                            OLS   Adj. R-squared:                    nan
+Method:                 Least Squares   F-statistic:                       nan
+Date:                Sun, 24 Sep 2023   Prob (F-statistic):                nan
+Time:                        09:48:53   Log-Likelihood:                    nan
+No. Observations:                 160   AIC:                               nan
+Df Residuals:                     152   BIC:                               nan
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const             nan        nan        nan        nan         nan         nan
+脑室引流              nan        nan        nan        nan         nan         nan
+止血治疗              nan        nan        nan        nan         nan         nan
+降颅压治疗             nan        nan        nan        nan         nan         nan
+降压治疗              nan        nan        nan        nan         nan         nan
+镇静、镇痛治疗           nan        nan        nan        nan         nan         nan
+止吐护胃              nan        nan        nan        nan         nan         nan
+营养神经              nan        nan        nan        nan         nan         nan
+==============================================================================
+Omnibus:                          nan   Durbin-Watson:                     nan
+Prob(Omnibus):                    nan   Jarque-Bera (JB):                  nan
+Skew:                             nan   Prob(JB):                          nan
+Kurtosis:                         nan   Cond. No.                         17.1
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
