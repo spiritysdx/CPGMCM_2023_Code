@@ -3,8 +3,8 @@
 Dep. Variable:                    组趋势   R-squared:                        -inf
 Model:                            OLS   Adj. R-squared:                   -inf
 Method:                 Least Squares   F-statistic:                    -13.14
-Date:                Sun, 24 Sep 2023   Prob (F-statistic):               1.00
-Time:                        16:19:56   Log-Likelihood:                 3314.8
+Date:                Mon, 25 Sep 2023   Prob (F-statistic):               1.00
+Time:                        02:29:53   Log-Likelihood:                 3314.8
 No. Observations:                 100   AIC:                            -6614.
 Df Residuals:                      92   BIC:                            -6593.
 Df Model:                           7                                         

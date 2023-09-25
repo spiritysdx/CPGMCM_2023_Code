@@ -3,8 +3,8 @@
 Dep. Variable:                   个人趋势   R-squared:                       0.079
 Model:                            OLS   Adj. R-squared:                  0.009
 Method:                 Least Squares   F-statistic:                     1.132
-Date:                Sun, 24 Sep 2023   Prob (F-statistic):              0.350
-Time:                        16:38:42   Log-Likelihood:                -137.76
+Date:                Mon, 25 Sep 2023   Prob (F-statistic):              0.350
+Time:                        02:26:59   Log-Likelihood:                -137.76
 No. Observations:                 100   AIC:                             291.5
 Df Residuals:                      92   BIC:                             312.4
 Df Model:                           7                                         
